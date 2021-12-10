@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 from sklearn import tree
 
 train_data_path = "../titanic/train.csv"
